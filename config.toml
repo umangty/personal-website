@@ -1,4 +1,7 @@
-baseURL = "http://wwhite13.com/"
+baseURL = "https://wwhite13.com/"
 languageCode = "en-us"
 title = "Umang Tiwary"
 theme = "hugo-PaperMod"
+githubUrl = "github.com/umangty"
+linkedInUrl = "https://www.linkedin.com/in/umang-tiwary-9a9651100/"
+resumeUrl = "https://drive.google.com/file/d/1PvvXRPF4OQj7eyCs9LAcoeCllrEen85P/view?usp=sharing"
