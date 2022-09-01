@@ -48,7 +48,7 @@ My journey in STPL started as an entry-level software engineer in a small office
 
 Our team started expanding within 6-8 months and we had to move out of Zerodha’s office. Founders decided to take a rented office in the Indiqube building near Richmond Road, Bangalore. I met super intelligent and motivated folks during the initial phase of scaling STPL. We went from 10k users to 1 lakh users during this phase. We used to work for very long hours, around 12-14 hrs. We partied a lot too. It was like living with a philosophy of “work hard, party harder!". Since then we have scaled like crazy with around 7k TPM during market hours (9:15 AM - 3:30 PM).
 
-Life has been on auto-pilot since then, I’ll write more about our scaling journey in further blogs. But that’s all for now. We are hiring actively and open roles can be seen in our careers page
+Life has been on auto-pilot since then, I’ll write more about our scaling journey in further blogs. But that’s all for now. We are hiring actively and open roles can be seen in our careers page.
 
 Why this blog?
 
